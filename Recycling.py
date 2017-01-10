@@ -1,6 +1,8 @@
 #coding=utf-8
 """
 查看被所有用户删除的文件
+
+需要用管理员权限运行
 """
 import os
 import _winreg as wr
